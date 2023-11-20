@@ -1,0 +1,5 @@
+dataset: gitlab
+
+locations:
+  dataset_path: tests/test_data/${dataset}
+

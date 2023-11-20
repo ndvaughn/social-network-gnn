@@ -1,0 +1,9 @@
+setup.py
+social_network_gnn/__init__.py
+social_network_gnn/data.py
+social_network_gnn/run.py
+social_network_gnn.egg-info/PKG-INFO
+social_network_gnn.egg-info/SOURCES.txt
+social_network_gnn.egg-info/dependency_links.txt
+social_network_gnn.egg-info/top_level.txt
+social_network_gnn.egg-info/zip-safe
