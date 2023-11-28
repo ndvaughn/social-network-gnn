@@ -5,3 +5,6 @@ from pathlib import Path
 
 if __name__ == "__main__":
     temp = data.Graph(Path(CONFIG.locations.dataset_path))
+    torch_graph = temp.torch()
+    breakpoint()
+    debug = 0
